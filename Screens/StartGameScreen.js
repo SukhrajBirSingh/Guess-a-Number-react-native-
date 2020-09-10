@@ -8,6 +8,7 @@ import titles from '../constants/titles';
 import { LinearGradient } from 'expo-linear-gradient';
 import BodyText from '../components/BodyText';
 
+
    const StartGameScreen = props => {
 
     const [enteredValue, setEnteredValue] = useState();  // user input
